@@ -1,2 +1,2 @@
-# ggplot2_theme
-A custom theme with ggplot2
+# ggplot2
+data visualisation techniques based on ggplot2
